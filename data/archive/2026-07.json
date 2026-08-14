@@ -10575,7 +10575,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 25,
+    "heat": 26,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-09T23:38:05.213Z",
@@ -23820,7 +23820,7 @@
     "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/devavrat-shah-mit-00_0.jpg?itok=A3yCxNyV",
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "aiNote": null,
     "fetchedAt": null,
@@ -26473,7 +26473,7 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:hf-blog",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-07-15T23:21:18.486Z",
     "aiNote": "模型路由看似基础，实则暗藏玄机，决定AI应用成本与质量。",
     "fetchedAt": null,
@@ -27280,7 +27280,7 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:hf-blog",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-07-15T23:21:18.486Z",
     "aiNote": null,
     "fetchedAt": null,
@@ -27297,7 +27297,7 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:hf-blog",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-07-15T23:21:18.486Z",
     "aiNote": null,
     "fetchedAt": null,
@@ -35056,7 +35056,7 @@
     "aiNote": null,
     "image": null,
     "fetchedAt": null,
-    "engagement": 120,
+    "engagement": 119,
     "tier": 2
   },
   {
@@ -37400,7 +37400,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 27,
+    "heat": 28,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -38473,7 +38473,7 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:hf-blog",
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-07-21T23:21:25.434Z",
     "aiNote": "开源机器人操控数据记录系统，降低研发门槛，加速行业标准化进程。",
     "fetchedAt": null,
@@ -41722,7 +41722,7 @@
     "aiNote": null,
     "image": null,
     "fetchedAt": null,
-    "engagement": 66,
+    "engagement": 67,
     "tier": 2
   },
   {
@@ -41740,14 +41740,14 @@
       "codex-skill",
       "Python"
     ],
-    "heat": 32,
+    "heat": 31,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-07-22T23:24:49.618Z",
     "aiNote": null,
     "image": null,
     "fetchedAt": null,
-    "engagement": 2149,
+    "engagement": 2189,
     "tier": 2
   },
   {
@@ -42779,7 +42779,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 26,
+    "heat": 27,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-23T23:20:32.498Z",
@@ -43677,7 +43677,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 26,
+    "heat": 27,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-23T23:20:32.498Z",
@@ -46166,7 +46166,7 @@
     "image": null,
     "firstSeen": "2026-07-27T02:52:11.295Z",
     "fetchedAt": null,
-    "engagement": 413,
+    "engagement": 429,
     "tier": 2
   },
   {
@@ -49104,7 +49104,7 @@
     "aiSelected": true,
     "origin": "rss:latentspace",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 2
@@ -49785,7 +49785,7 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 2
@@ -49802,7 +49802,7 @@
     "aiSelected": true,
     "origin": "rss:importai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 2
@@ -49870,7 +49870,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 2
@@ -50057,7 +50057,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 1
@@ -50283,7 +50283,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 2
@@ -52851,7 +52851,7 @@
       "android",
       "TypeScript"
     ],
-    "engagement": 2056,
+    "engagement": 2070,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -53096,7 +53096,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 24,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
     "tier": 2
@@ -53138,7 +53138,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 26,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
     "tier": 2
@@ -55872,7 +55872,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
     "tier": 1
@@ -55906,7 +55906,7 @@
     "aiSelected": true,
     "origin": "rss:nvidia",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
     "tier": 1
@@ -56217,7 +56217,7 @@
       "llm",
       "TypeScript"
     ],
-    "engagement": 999,
+    "engagement": 1041,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -56291,7 +56291,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 17,
+    "heat": 16,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
     "tier": 2
@@ -58187,7 +58187,7 @@
     "aiSelected": true,
     "origin": "rss:latentspace",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
     "tier": 2
@@ -58340,7 +58340,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
     "tier": 2
@@ -60010,7 +60010,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 26,
+    "heat": 27,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2
@@ -60027,7 +60027,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 1
@@ -60319,7 +60319,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 1
@@ -60858,7 +60858,7 @@
     "aiSelected": true,
     "origin": "rss:techreview-ai",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2
@@ -61159,7 +61159,7 @@
     "aiSelected": true,
     "origin": "rss:latentspace",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2
@@ -61282,7 +61282,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2
@@ -62340,7 +62340,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 587,
+    "engagement": 591,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -62430,12 +62430,12 @@
       "robotics",
       "Python"
     ],
-    "engagement": 113,
+    "engagement": 115,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 22,
+    "heat": 23,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2
@@ -62455,7 +62455,7 @@
       "gemma4-26b-a4b",
       "Swift"
     ],
-    "engagement": 5929,
+    "engagement": 5970,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -63292,7 +63292,7 @@
     "aiSelected": true,
     "origin": "rss:bair",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-07-30T04:00:09.295Z",
     "fetchedAt": null,
     "tier": 1
@@ -64478,7 +64478,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-07-30T23:18:24.128Z",
     "fetchedAt": null,
     "tier": 2
@@ -65330,7 +65330,7 @@
     "aiSelected": true,
     "origin": "rss:apple-ml",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-07-30T23:18:24.128Z",
     "fetchedAt": null,
     "tier": 1
@@ -65393,7 +65393,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-07-30T23:18:24.128Z",
     "fetchedAt": null,
     "tier": 2
@@ -66903,7 +66903,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-07-31T23:15:30.422Z",
     "fetchedAt": null,
     "tier": 2
@@ -67009,7 +67009,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-07-31T23:15:30.422Z",
     "fetchedAt": null,
     "tier": 2
@@ -67136,7 +67136,7 @@
     "aiSelected": true,
     "origin": "rss:latentspace",
     "aiNote": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-07-31T23:15:30.422Z",
     "fetchedAt": null,
     "tier": 2
@@ -67293,7 +67293,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-07-31T23:15:30.422Z",
     "fetchedAt": null,
     "tier": 2
@@ -67866,7 +67866,7 @@
     "aiSelected": true,
     "origin": "rss:apple-ml",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-07-31T23:15:30.422Z",
     "fetchedAt": null,
     "tier": 1
@@ -68436,12 +68436,12 @@
       "knowledge-base",
       "Python"
     ],
-    "engagement": 89,
+    "engagement": 101,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 24,
     "firstSeen": "2026-07-31T23:15:30.422Z",
     "fetchedAt": null,
     "tier": 2
