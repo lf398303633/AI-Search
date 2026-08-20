@@ -8545,7 +8545,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 21,
+    "heat": 20,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-09T23:38:05.213Z",
@@ -19343,7 +19343,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 19,
+    "heat": 18,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -38473,7 +38473,7 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:hf-blog",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-07-21T23:21:25.434Z",
     "aiNote": "开源机器人操控数据记录系统，降低研发门槛，加速行业标准化进程。",
     "fetchedAt": null,
@@ -42708,7 +42708,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 22,
+    "heat": 21,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-23T23:20:32.498Z",
@@ -48747,7 +48747,7 @@
     "origin": "hackernews",
     "aiNote": "开源工具将前沿模型成本减半，专为智能体优化，持续提升性能。",
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 2
@@ -52851,7 +52851,7 @@
       "android",
       "TypeScript"
     ],
-    "engagement": 2208,
+    "engagement": 2232,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -52978,7 +52978,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 16,
+    "heat": 15,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
     "tier": 2
@@ -53037,7 +53037,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 17,
+    "heat": 16,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
     "tier": 2
@@ -55872,7 +55872,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
     "tier": 1
@@ -60010,7 +60010,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2
@@ -60065,7 +60065,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2
@@ -62340,7 +62340,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 614,
+    "engagement": 616,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -63850,7 +63850,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-07-30T23:18:24.128Z",
     "fetchedAt": null,
     "tier": 1
@@ -63884,7 +63884,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-07-30T23:18:24.128Z",
     "fetchedAt": null,
     "tier": 1
@@ -64512,7 +64512,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-07-30T23:18:24.128Z",
     "fetchedAt": null,
     "tier": 1
@@ -64546,7 +64546,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-07-30T23:18:24.128Z",
     "fetchedAt": null,
     "tier": 1
