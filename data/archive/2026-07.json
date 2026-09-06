@@ -18047,7 +18047,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 20,
+    "heat": 21,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -40397,7 +40397,7 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:deepmind",
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-07-22T23:24:49.618Z",
     "aiNote": "谷歌投入四千万美元AI资源，加速前沿科学探索，彰显科技巨头推动基础研究的新模式。",
     "fetchedAt": null,
@@ -40497,7 +40497,7 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
     "aiSelected": true,
     "origin": "rss:google-ai",
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-07-22T23:24:49.618Z",
     "aiNote": "三星新设备集成谷歌AI，提升生产力的同时强调时间效率，展示硬件与生态协同新趋势。",
     "fetchedAt": null,
@@ -40991,7 +40991,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 20,
+    "heat": 21,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -60065,7 +60065,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 18,
+    "heat": 17,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2
