@@ -12103,7 +12103,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-08-07T01:34:11.318Z",
     "fetchedAt": null,
     "tier": 2
@@ -14660,7 +14660,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 29,
+    "heat": 30,
     "firstSeen": "2026-08-07T22:54:46.550Z",
     "fetchedAt": null,
     "tier": 2
@@ -19777,7 +19777,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-08-10T22:56:06.325Z",
     "fetchedAt": null,
     "tier": 2
@@ -25167,7 +25167,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-08-12T22:59:53.843Z",
     "fetchedAt": null,
     "tier": 2
@@ -25417,7 +25417,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-08-12T22:59:53.843Z",
     "fetchedAt": null,
     "tier": 2
@@ -28663,7 +28663,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 29,
+    "heat": 30,
     "firstSeen": "2026-08-13T23:01:10.915Z",
     "fetchedAt": null,
     "tier": 2
@@ -28684,7 +28684,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-08-13T23:01:10.915Z",
     "fetchedAt": null,
     "tier": 2
@@ -47326,7 +47326,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 19,
+    "heat": 18,
     "firstSeen": "2026-08-21T22:40:28.745Z",
     "fetchedAt": null,
     "tier": 2
@@ -49951,8 +49951,8 @@
   },
   {
     "id": "rss:meta-ai-92a8bb99c9",
-    "title": "Your personal AI assistant & chatbot | Ask, chat & more",
-    "summary": "Your personal AI assistant & chatbot | Ask, chat & more AI at Meta",
+    "title": "Meta AI: Your personal AI assistant & chatbot | Ask, chat & more",
+    "summary": "Meta AI: Your personal AI assistant & chatbot | Ask, chat & more AI at Meta",
     "source": "Meta AI",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xN1RIbER2TUxocmZ4a0QyNUlNMFRxbFhNeVZNYm80c1lRbUI5ZDN3Qlg0cHZyMVAzRDh3Y1B2T2twVndKd1pFRkc4QTkxOHM?oc=5",
     "category": "ai-models",
@@ -50036,8 +50036,8 @@
   },
   {
     "id": "rss:meta-ai-b50d23ed74",
-    "title": "System Cards",
-    "summary": "System Cards AI at Meta",
+    "title": "System cards",
+    "summary": "System cards AI at Meta",
     "source": "Meta AI",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DN0pMamtjb1Vvd0tnSVJWQmZkUy1nWDRJOTk3eWtGRFc4cDZIX1ZIOEhEMVVDa2J1N1VMV3hCNGtrOTNuQ19JdFFLZm02Tkc5?oc=5",
     "category": "ai-models",
@@ -50088,7 +50088,7 @@
   {
     "id": "rss:anthropic-c8653a64cb",
     "title": "Home \\ Anthropic",
-    "summary": "Home \\ Anthropic anthropic.com",
+    "summary": "Home \\ Anthropic Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5RZk9pdlNWV1NMRG9YSzh2VjNsX05pdkZYcU9PcV81dEprUC1NbS0wMUVLYTBqY0lheGxQRHhqcw?oc=5",
     "category": "ai-models",
@@ -57603,7 +57603,7 @@
       "multimodal-llm",
       "Python"
     ],
-    "engagement": 1635,
+    "engagement": 1644,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -59022,7 +59022,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-08-28T06:06:43.955Z",
     "fetchedAt": null,
     "tier": 1
@@ -59166,7 +59166,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 28,
+    "heat": 29,
     "firstSeen": "2026-08-28T06:06:43.955Z",
     "fetchedAt": null,
     "tier": 2
@@ -60159,7 +60159,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-08-28T06:06:43.955Z",
     "fetchedAt": null,
     "tier": 2
@@ -60647,7 +60647,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-08-28T06:06:43.955Z",
     "fetchedAt": null,
     "tier": 2
@@ -62644,7 +62644,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-08-29T03:43:03.654Z",
     "fetchedAt": null,
     "tier": 1
@@ -64336,7 +64336,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 2713,
+    "engagement": 2753,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
