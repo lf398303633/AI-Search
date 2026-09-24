@@ -14660,7 +14660,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-08-07T22:54:46.550Z",
     "fetchedAt": null,
     "tier": 2
@@ -38223,7 +38223,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-08-18T22:40:38.993Z",
     "fetchedAt": null,
     "tier": 2
@@ -47326,7 +47326,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 18,
+    "heat": 19,
     "firstSeen": "2026-08-21T22:40:28.745Z",
     "fetchedAt": null,
     "tier": 2
@@ -48948,7 +48948,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 16,
+    "heat": 15,
     "firstSeen": "2026-08-22T22:37:07.907Z",
     "fetchedAt": null,
     "tier": 2
@@ -50254,7 +50254,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-08-24T22:43:13.956Z",
     "fetchedAt": null,
     "tier": 1
@@ -50339,7 +50339,7 @@
     "aiSelected": true,
     "origin": "rss:mistral",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-08-24T22:43:13.956Z",
     "fetchedAt": null,
     "tier": 1
@@ -56936,7 +56936,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-08-27T03:18:09.271Z",
     "fetchedAt": null,
     "tier": 2
@@ -58903,7 +58903,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 26,
+    "heat": 27,
     "firstSeen": "2026-08-28T06:06:43.955Z",
     "fetchedAt": null,
     "tier": 2
@@ -59650,7 +59650,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 27,
+    "heat": 28,
     "firstSeen": "2026-08-28T06:06:43.955Z",
     "fetchedAt": null,
     "tier": 2
@@ -64336,7 +64336,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 2779,
+    "engagement": 2802,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
