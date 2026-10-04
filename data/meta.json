@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T01:11:18.663Z",
+  "fetchedAt": "2026-10-04T00:36:23.310Z",
   "count": 777,
   "sources": {
     "hf-papers": 50,
@@ -32,7 +32,7 @@
     "rss:semianalysis": 10,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
-    "rss:simonwillison": 6,
+    "rss:simonwillison": 5,
     "rss:lilianweng": 20,
     "rss:raschka": 20,
     "rss:thegradient": 12,
