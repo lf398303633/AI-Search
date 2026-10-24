@@ -28066,7 +28066,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 16,
+    "heat": 17,
     "firstSeen": "2026-09-12T00:17:32.142Z",
     "fetchedAt": null,
     "tier": 2
@@ -41312,7 +41312,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-18T00:16:28.104Z",
     "fetchedAt": null,
     "tier": 2
@@ -55092,7 +55092,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-24T00:29:32.798Z",
     "fetchedAt": null,
     "tier": 1
@@ -55313,7 +55313,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-24T00:29:32.798Z",
     "fetchedAt": null,
     "tier": 1
@@ -55402,7 +55402,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-24T00:29:32.798Z",
     "fetchedAt": null,
     "tier": 1
@@ -62914,7 +62914,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-09-26T00:37:27.987Z",
     "fetchedAt": null,
     "tier": 2
@@ -66079,7 +66079,7 @@
     "aiSelected": true,
     "origin": "rss:importai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-29T01:56:34.348Z",
     "fetchedAt": null,
     "tier": 2
@@ -66562,7 +66562,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-29T01:56:34.348Z",
     "fetchedAt": null,
     "tier": 2
@@ -68429,7 +68429,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-09-30T01:17:29.305Z",
     "fetchedAt": null,
     "tier": 1
@@ -70295,7 +70295,7 @@
       "daily-digest",
       "TypeScript"
     ],
-    "engagement": 8430,
+    "engagement": 8506,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -70885,7 +70885,7 @@
       "gui-agent",
       "Python"
     ],
-    "engagement": 185,
+    "engagement": 189,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -70910,7 +70910,7 @@
       "chinese",
       "Python"
     ],
-    "engagement": 283,
+    "engagement": 296,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
