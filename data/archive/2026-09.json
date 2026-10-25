@@ -18798,7 +18798,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-09T00:13:31.373Z",
     "fetchedAt": null,
     "tier": 1
@@ -18904,7 +18904,7 @@
     "aiSelected": true,
     "origin": "rss:mistral",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-09T00:13:31.373Z",
     "fetchedAt": null,
     "tier": 1
@@ -28066,7 +28066,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 17,
+    "heat": 16,
     "firstSeen": "2026-09-12T00:17:32.142Z",
     "fetchedAt": null,
     "tier": 2
@@ -39287,7 +39287,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 17,
+    "heat": 16,
     "firstSeen": "2026-09-17T00:30:35.018Z",
     "fetchedAt": null,
     "tier": 2
@@ -43643,7 +43643,7 @@
     "aiSelected": true,
     "origin": "rss:oneusefulthing",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-19T00:19:50.012Z",
     "fetchedAt": null,
     "tier": 2
@@ -57693,7 +57693,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-25T00:32:54.313Z",
     "fetchedAt": null,
     "tier": 1
@@ -58020,7 +58020,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-25T00:32:54.313Z",
     "fetchedAt": null,
     "tier": 1
@@ -69333,7 +69333,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-30T01:17:29.305Z",
     "fetchedAt": null,
     "tier": 2
@@ -69490,7 +69490,7 @@
     "aiSelected": true,
     "origin": "rss:raschka",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-30T01:17:29.305Z",
     "fetchedAt": null,
     "tier": 2
@@ -70275,7 +70275,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-30T01:17:29.305Z",
     "fetchedAt": null,
     "tier": 2
@@ -70295,7 +70295,7 @@
       "daily-digest",
       "TypeScript"
     ],
-    "engagement": 8506,
+    "engagement": 8552,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -70885,7 +70885,7 @@
       "gui-agent",
       "Python"
     ],
-    "engagement": 189,
+    "engagement": 190,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -70910,7 +70910,7 @@
       "chinese",
       "Python"
     ],
-    "engagement": 296,
+    "engagement": 305,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
