@@ -19298,7 +19298,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 21,
     "firstSeen": "2026-09-09T00:13:31.373Z",
     "fetchedAt": null,
     "tier": 2
@@ -20583,7 +20583,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-10T00:14:16.255Z",
     "fetchedAt": null,
     "tier": 1
@@ -20600,7 +20600,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-10T00:14:16.255Z",
     "fetchedAt": null,
     "tier": 1
@@ -24836,7 +24836,7 @@
     "aiSelected": true,
     "origin": "rss:mistral",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-11T00:09:47.227Z",
     "fetchedAt": null,
     "tier": 1
@@ -38442,7 +38442,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 24,
     "firstSeen": "2026-09-17T00:30:35.018Z",
     "fetchedAt": null,
     "tier": 2
@@ -39287,7 +39287,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 17,
+    "heat": 16,
     "firstSeen": "2026-09-17T00:30:35.018Z",
     "fetchedAt": null,
     "tier": 2
@@ -41295,7 +41295,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 19,
+    "heat": 20,
     "firstSeen": "2026-09-18T00:16:28.104Z",
     "fetchedAt": null,
     "tier": 2
@@ -56679,7 +56679,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 18,
+    "heat": 19,
     "firstSeen": "2026-09-24T00:29:32.798Z",
     "fetchedAt": null,
     "tier": 2
@@ -58821,7 +58821,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 22,
+    "heat": 23,
     "firstSeen": "2026-09-25T00:32:54.313Z",
     "fetchedAt": null,
     "tier": 2
@@ -70295,7 +70295,7 @@
       "daily-digest",
       "TypeScript"
     ],
-    "engagement": 8602,
+    "engagement": 8677,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
