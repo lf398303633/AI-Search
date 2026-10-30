@@ -41295,7 +41295,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-09-18T00:16:28.104Z",
     "fetchedAt": null,
     "tier": 2
@@ -68429,7 +68429,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-30T01:17:29.305Z",
     "fetchedAt": null,
     "tier": 1
