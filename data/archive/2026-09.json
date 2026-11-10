@@ -55092,7 +55092,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-24T00:29:32.798Z",
     "fetchedAt": null,
     "tier": 1
@@ -55313,7 +55313,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-24T00:29:32.798Z",
     "fetchedAt": null,
     "tier": 1
@@ -56679,7 +56679,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 16,
+    "heat": 17,
     "firstSeen": "2026-09-24T00:29:32.798Z",
     "fetchedAt": null,
     "tier": 2
@@ -58020,7 +58020,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-25T00:32:54.313Z",
     "fetchedAt": null,
     "tier": 1
@@ -58821,7 +58821,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 21,
+    "heat": 22,
     "firstSeen": "2026-09-25T00:32:54.313Z",
     "fetchedAt": null,
     "tier": 2
@@ -62914,7 +62914,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 17,
+    "heat": 18,
     "firstSeen": "2026-09-26T00:37:27.987Z",
     "fetchedAt": null,
     "tier": 2
