@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-11T01:55:33.566Z",
-  "count": 782,
+  "fetchedAt": "2026-11-12T02:56:59.693Z",
+  "count": 772,
   "sources": {
     "hf-papers": 50,
     "github": 80,
@@ -44,11 +44,11 @@
     "rss:qbitai": 10,
     "rss:jiqizhixin": 20,
     "rss:xinzhiyuan": 20,
-    "rss:geekpark": 16,
+    "rss:geekpark": 17,
     "rss:36kr": 0,
-    "rss:infoq": 14,
-    "rss:sspai": 2,
-    "rss:ithome": 4,
+    "rss:infoq": 8,
+    "rss:sspai": 1,
+    "rss:ithome": 5,
     "arxiv": 20
   },
   "errors": {
