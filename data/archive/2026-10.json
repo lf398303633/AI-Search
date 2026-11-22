@@ -7529,7 +7529,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-10-03T01:11:18.661Z",
     "fetchedAt": null,
     "tier": 2
@@ -15501,7 +15501,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-10-07T01:31:24.710Z",
     "fetchedAt": null,
     "tier": 1
@@ -16120,7 +16120,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-10-07T01:31:24.710Z",
     "fetchedAt": null,
     "tier": 1
@@ -24140,7 +24140,7 @@
     "aiSelected": true,
     "origin": "rss:mistral",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-10-25T00:19:41.101Z",
     "fetchedAt": null,
     "tier": 1
@@ -58931,7 +58931,7 @@
     "aiSelected": true,
     "origin": "rss:msr",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-23T00:39:18.287Z",
     "fetchedAt": null,
     "tier": 1
@@ -59084,7 +59084,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-23T00:39:18.287Z",
     "fetchedAt": null,
     "tier": 1
@@ -66332,7 +66332,7 @@
       "coloros",
       "Python"
     ],
-    "engagement": 8542,
+    "engagement": 8662,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -70497,7 +70497,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-28T01:19:10.741Z",
     "fetchedAt": null,
     "tier": 2
@@ -71425,7 +71425,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 21,
     "firstSeen": "2026-10-28T01:19:10.741Z",
     "fetchedAt": null,
     "tier": 2
@@ -73748,7 +73748,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-29T01:47:26.102Z",
     "fetchedAt": null,
     "tier": 1
@@ -81349,12 +81349,12 @@
       "automation",
       "Kotlin"
     ],
-    "engagement": 9310,
+    "engagement": 9477,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-31T01:34:58.461Z",
     "fetchedAt": null,
     "tier": 2
@@ -81464,7 +81464,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 18,
+    "heat": 17,
     "firstSeen": "2026-10-31T01:34:58.461Z",
     "fetchedAt": null,
     "tier": 2
@@ -82122,7 +82122,7 @@
       "coding-agent",
       "Dart"
     ],
-    "engagement": 29062,
+    "engagement": 29628,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
